@@ -1,0 +1,6 @@
+{
+    "name": "cleptric/sentry-github",
+    "require": {
+        "sentry/sentry": "^4.6"
+    }
+}
