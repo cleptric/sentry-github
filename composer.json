@@ -1,5 +1,10 @@
 {
     "name": "cleptric/sentry-github",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
     "require": {
         "sentry/sentry": "^4.6"
     }
